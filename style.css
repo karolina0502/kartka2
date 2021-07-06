@@ -1,0 +1,129 @@
+body{
+    width: 650px;
+}
+header{
+    width: 650px;
+}
+.logo1{
+display: flex;
+justify-content: center;
+margin-top: 32px;
+margin-bottom: 32px;
+}
+main{
+    background-color: #F8F8F8;
+    height: 496px;
+}
+.line{
+
+margin-left: 82px;
+}
+.sect{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.left{
+margin-left: 80px; 
+ width: 325px; 
+ display: flex;
+ flex-direction: column;
+ justify-content: left;
+}
+.zycz{
+    font-size: 32px;
+    margin-top: 40px;
+    font-weight: bold;
+    line-height: 128%;
+
+
+}
+.zycz2{
+    font-size: 16px;
+    margin-top: 32px;
+    line-height: 148%;
+
+}
+.right{
+
+     width: 325px; 
+     display: flex;
+     flex-direction: column;
+     justify-content: right;
+}
+.img1{
+right: 0px;
+position: relative;
+height: 208px;
+}
+.img2{
+    top: 40px;
+right: 0px;
+position: relative;
+right: 60px;
+}
+footer{
+    width: 650px; 
+    height: 372px; 
+    background-color: #FFFFFF; 
+}
+.calosc{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.imgdol{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin-left: 80px;    
+    margin-top: 32px; 
+    width: 325px;
+}
+.contact{
+    text-align: right;
+    flex-direction: row;
+    justify-content: right;
+    width: 325px;
+    margin-right: 80px;
+    margin-top: 32px;
+}
+.list{
+    margin-right: 40px;
+}
+.media{
+    flex-direction: row;
+    list-style-type: none;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 40px;
+}
+li{ 
+     margin-right: 10px; 
+     text-align: right; 
+ }
+ address{
+    height: 84px;
+    width: 490px;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 148%;
+    color: #828282;
+    font-style: normal;
+    margin-top: 45px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 48px;
+
+}
+.s2{
+    width: 650px;
+    height: 64px;
+    background-color: #9613A5;
+    color: #FFFFFF;
+    text-align: center; 
+    font-size: 24px;
+    font-weight: bold;
+
+}
